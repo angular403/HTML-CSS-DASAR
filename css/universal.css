@@ -1,0 +1,46 @@
+* {
+    font-family: Arial;
+}
+
+
+h1 {
+    color: brown;
+}
+
+h2 {
+    color: darkblue;
+}
+
+li.breakfast {
+    color: green;
+}
+
+li.lunch {
+    color: red;
+}
+
+
+#afternoon_meal{
+    color: darkcyan;
+}
+
+li.dinner{
+    color: blueviolet;
+}
+
+p>b{
+    color: cornflowerblue;
+}
+
+li>b{
+    color: pink;
+}
+
+p+h2{
+    color: blanchedalmond;
+}
+
+
+h2~p{
+    color: yellow;
+}
