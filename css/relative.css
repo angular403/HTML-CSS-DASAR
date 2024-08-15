@@ -1,0 +1,12 @@
+p{
+    position: relative;
+    background-color: aqua;
+    top: 100px;
+}
+
+p.relative-position{
+    position: relative;
+    background-color: coral;
+    left: 50px;
+    top: 50px;
+}
