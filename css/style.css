@@ -1,13 +1,3 @@
-h1 {
-    color: brown;
-}
-p{
-    font-family: Arial;
-}
-
-i{
-    background-color: aqua;
-}
-b{
-    color: blue;
+#services img{
+    height: 150px;
 }
